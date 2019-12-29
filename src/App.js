@@ -21,13 +21,13 @@ function App() {
     <Router>
       <Route path='/' component={Navigation} />
       <div id="content">
-        <Route exact path='/Prices' component={Prices} />
-        <Route path='/Prices/Meat' component={PricesMeat} />
-        <Route path='/Prices/Vegan' component={PricesVegan} />
-        <Route path='/Hours' component={Hours} />
-        <Route path='/About' component={About} />
-        <Route path='/Contacts' component={Contacts} />
-        <Route path='/Book' component={Book} />
+        <Route exact path='/lerestaurante/Prices' component={Prices} />
+        <Route path='/lerestaurante/Prices/Meat' component={PricesMeat} />
+        <Route path='/lerestaurante/Prices/Vegan' component={PricesVegan} />
+        <Route path='/lerestaurante/Hours' component={Hours} />
+        <Route path='/lerestaurante/About' component={About} />
+        <Route path='/lerestaurante/Contacts' component={Contacts} />
+        <Route path='/lerestaurante/Book' component={Book} />
         <div id="food-carousel"><MyCarousel /></div>
       </div>
       <div id="address">
