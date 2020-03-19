@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/lerestaurante/static/css/main.8d344182.chunk.css",
-    "main.js": "/lerestaurante/static/js/main.4728a8a0.chunk.js",
-    "main.js.map": "/lerestaurante/static/js/main.4728a8a0.chunk.js.map",
+    "main.js": "/lerestaurante/static/js/main.7c4dd06e.chunk.js",
+    "main.js.map": "/lerestaurante/static/js/main.7c4dd06e.chunk.js.map",
     "runtime-main.js": "/lerestaurante/static/js/runtime-main.c0fb1396.js",
     "runtime-main.js.map": "/lerestaurante/static/js/runtime-main.c0fb1396.js.map",
     "static/css/2.2e09a85b.chunk.css": "/lerestaurante/static/css/2.2e09a85b.chunk.css",
-    "static/js/2.4e94c9d3.chunk.js": "/lerestaurante/static/js/2.4e94c9d3.chunk.js",
-    "static/js/2.4e94c9d3.chunk.js.map": "/lerestaurante/static/js/2.4e94c9d3.chunk.js.map",
+    "static/js/2.d041ed74.chunk.js": "/lerestaurante/static/js/2.d041ed74.chunk.js",
+    "static/js/2.d041ed74.chunk.js.map": "/lerestaurante/static/js/2.d041ed74.chunk.js.map",
     "index.html": "/lerestaurante/index.html",
-    "precache-manifest.54ae4bc9c5c0537390d3daf444760bdf.js": "/lerestaurante/precache-manifest.54ae4bc9c5c0537390d3daf444760bdf.js",
+    "precache-manifest.fd62f8870d680ab0996d67dd4fcd00c4.js": "/lerestaurante/precache-manifest.fd62f8870d680ab0996d67dd4fcd00c4.js",
     "service-worker.js": "/lerestaurante/service-worker.js",
     "static/css/2.2e09a85b.chunk.css.map": "/lerestaurante/static/css/2.2e09a85b.chunk.css.map",
     "static/css/main.8d344182.chunk.css.map": "/lerestaurante/static/css/main.8d344182.chunk.css.map",
-    "static/js/2.4e94c9d3.chunk.js.LICENSE": "/lerestaurante/static/js/2.4e94c9d3.chunk.js.LICENSE",
+    "static/js/2.d041ed74.chunk.js.LICENSE": "/lerestaurante/static/js/2.d041ed74.chunk.js.LICENSE",
     "static/media/1.png": "/lerestaurante/static/media/1.25407b16.png",
     "static/media/2.png": "/lerestaurante/static/media/2.373a3e8b.png",
     "static/media/3.png": "/lerestaurante/static/media/3.c1838881.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.c0fb1396.js",
     "static/css/2.2e09a85b.chunk.css",
-    "static/js/2.4e94c9d3.chunk.js",
+    "static/js/2.d041ed74.chunk.js",
     "static/css/main.8d344182.chunk.css",
-    "static/js/main.4728a8a0.chunk.js"
+    "static/js/main.7c4dd06e.chunk.js"
   ]
 }
