@@ -32,11 +32,11 @@ export class Hamburger extends Component {
             <div className="menu-mobile" style={{display: this.state.display}}> 
                 <div className={`menu-mobile-container animated slideInRight fast`}>
                     <ul onClick={this.hideMenu.bind(this)}>
-                        <li><NavLink to='/lerestaurante'>HOME</NavLink></li>
-                        <li><NavLink to='/lerestaurante/Prices'>PRIECE LIST</NavLink></li>
-                        <li><NavLink to='/lerestaurante/Hours'>OPENING HOURS</NavLink></li>
-                        <li><NavLink to='/lerestaurante/About'>ABOUT US</NavLink></li>
-                        <li><NavLink to='/lerestaurante/Contacts'>CONTACTS</NavLink></li>
+                        <li><NavLink to='/'>HOME</NavLink></li>
+                        <li><NavLink to='/Prices'>PRIECE LIST</NavLink></li>
+                        <li><NavLink to='/Hours'>OPENING HOURS</NavLink></li>
+                        <li><NavLink to='/About'>ABOUT US</NavLink></li>
+                        <li><NavLink to='/Contacts'>CONTACTS</NavLink></li>
                     </ul>
                 </div>
             </div>
